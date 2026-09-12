@@ -1,0 +1,8 @@
+Resolución del ejercicio N°5 de la unidad 2 de programacion 2.
+El programa simula un sistema de automatización para un hogar inteligente que administra de forma centralizada rutinas globales.
+Cuenta un modo nocturno que apaga o ajusta aparatos eléctricos tras validar automáticamente cuáles se encuentran conectados a la red.
+
+Para su funcionamiento, el código emplea las clases:
+
+HubCentral
+DispositivoInteligente
